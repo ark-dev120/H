@@ -1,0 +1,12 @@
+{
+  "name": "game-offsets-api",
+  "version": "1.0.0",
+  "description": "A REST API for serving game offsets",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
